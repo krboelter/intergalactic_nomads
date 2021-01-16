@@ -1,4 +1,4 @@
-# intergelactic_nomads
+# intergalactic_nomads
 
 ## Project setup
 ```

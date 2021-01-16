@@ -1,6 +1,6 @@
 <template>
 	<nav>
-		<router-link class="intergelactic-nomads" to="/">Intergelactic Nomads</router-link>
+		<router-link class="intergalactic-nomads" to="/">Intergalactic Nomads</router-link>
 		<div class="nav-menu">
 			<router-link to="/">Home</router-link>
 		</div>
@@ -23,7 +23,7 @@ nav {
   padding: 0 20px;
 }
 
-.intergelactic-nomads {
+.intergalactic-nomads {
 	text-decoration: none;
 	color: white;
   font-size: 30px;
